@@ -78,7 +78,7 @@ const model = genAI.getGenerativeModel({
 
                 💡 Complexity Graph: 
 
-                    . After finding complexity pass that into place of curly braces after written complexity = then send it in place of brackets and getting from there make it visible http://localhost:8000/generate-graph?complexity={}&n_max=30 
+                    . After finding complexity pass that into place of curly braces after written complexity = then send it in place of brackets and getting from there make it visible https://pythonfile-production.up.railway.app/generate-graph?complexity={}&n_max=30 
                     .just show png instead of showing link go to that website and bring that graph and make it visible on screen
                     .Always Try to show graph image instead of giving url or like 'img' this is useless try to give graph image which u are being getting drom above url by just adding the complexityS
                 Final Note:
